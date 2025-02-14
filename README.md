@@ -1,7 +1,3 @@
-# kirky.github.io
-For Valentine's day
-
-
 <!DOCTYPE html>
 <html lang="en">
 
